@@ -268,6 +268,12 @@ h3{
     margin-top: 15px;
     text-align: left;
 }
+.fa-star{
+    color: #f44336;
+}
+.fa-star-half-stroke{
+    color: #f44336;
+}
 @media(max-width: 700px){
     .testimonials-col img{
         margin-left: 5px;
@@ -298,8 +304,27 @@ h3{
     }
 }
 
+/* footer */
 
-
+.footer{
+    width: 100%;
+    text-align: center;
+    padding: 30px 0;
+}
+.footer h4{
+    margin-bottom: 25px;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.icons .fa-brands{
+    color: #f44336;
+    margin: 0 13px;
+    padding: 18px 0;
+    cursor: pointer;
+}
+.fa-heart{
+    color: #f44336;
+}
 
 
 
